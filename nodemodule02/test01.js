@@ -1,0 +1,5 @@
+//การใช้งานโมดูลแบบ commonjs (แบบที่1)
+const myModuleA = require('./my-module-a')
+console.log(myModuleA.dataA)
+myModuleA.sayHi()
+myModuleA.sawasdee('Aphasara')
